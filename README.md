@@ -1,5 +1,5 @@
 # USO-Watchdog
-Proiect Utilizarea Sistemelor de Operare
+Proiect Utilizarea Sistemelor de Operare - Anul 1 Semestrul 1
 
 Watchdog
 
